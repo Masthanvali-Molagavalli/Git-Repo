@@ -1,9 +1,8 @@
 .box{
-    background-color: blueviolet;
+    background-color:  orange;
     border-radius: 8%;
     align-items: center;
     text-align: center;
     font-size: 100px;
-    color: burlywood;
-    text-transform: uppercase;
+    color: black;
 }
