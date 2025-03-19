@@ -1,0 +1,9 @@
+.box{
+    background-color: blueviolet;
+    border-radius: 8%;
+    align-items: center;
+    text-align: center;
+    font-size: 100px;
+    color: burlywood;
+    text-transform: uppercase;
+}
